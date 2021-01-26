@@ -36,7 +36,7 @@ home = ["HTML", "RSS", "JSON"]
 author = "Wesley Wilde"
 description = "My Autistic Life"
 [params.banner]
-heading = "My Autistic Life"
+heading = "Nonbinary living on the spectrum"
 image = ""
 [params.blog]
 heading = "Latest Articles"
