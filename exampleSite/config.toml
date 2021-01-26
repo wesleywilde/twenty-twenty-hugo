@@ -54,7 +54,7 @@ address = ""
 content = "👋I'm Wesley Wilde. I'm a non-binary autistic artist and musician. It's nice to meet you!"
 copyright = "Copyright &copy; 2021 — My Autistic Life"
 hours = ""
-title = "About This Site"
+title = "About Me"
 [params.gallery]
 enable = true
 [[params.gallery.gallery_item]]
