@@ -52,7 +52,7 @@ expire_days = 2
 [params.footer]
 address = ""
 content = "👋 I'm Wesley Wilde. I'm a nonbinary autistic artist and musician. It's nice to meet you!"
-copyright = "Copyright &copy; 2021 — Made with ❤️ and 💉😅😭 in Seattle, WA"
+copyright = "Copyright &copy; 2021 — Made with ❤️ in Seattle, WA"
 hours = ""
 title = "About Me"
 [params.gallery]
