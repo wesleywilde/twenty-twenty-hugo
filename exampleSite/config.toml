@@ -37,7 +37,7 @@ weight = 5
 [outputs]
 home = ["HTML", "RSS", "JSON"]
 [params]
-author = "Themefisher"
+author = "Wesley Wilde"
 description = "This is meta description"
 [params.banner]
 heading = "The New UMoMA Opens its Doors"
@@ -54,10 +54,10 @@ title = "Contact us for more information."
 enable = true
 expire_days = 2
 [params.footer]
-address = "123 Main Street <br> New York, NY 10001"
+address = ""
 content = "This may be a good place to introduce yourself and your site or include some credits."
-copyright = "Copyright &copy; 2020 a hugo theme by [themefisher](https://themefisher.com) ported from [WordPress Twenty Twenty](https://github.com/WordPress/twentytwenty)"
-hours = "Monday–Friday: 9:00AM–5:00PM <br> Saturday & Sunday: 11:00AM–3:00PM"
+copyright = "Copyright &copy; 2020"
+hours = ""
 title = "About This Site"
 [params.gallery]
 enable = true
