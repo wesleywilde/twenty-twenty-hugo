@@ -1,9 +1,7 @@
 ---
-title: "About"
-# meta description
-description: "This is meta description"
-# save as draft
-draft: false
----
+title: About
+description: Wesley Wilde is an autistic non-binary artist and musician living in
+  the United States.
 
-You might be an artist who would like to introduce yourself and your work here or maybe you&rsquo;re a business with a mission to describe.
+---
+The purpose of this blog is to document my own experience living on the spectrum with hopes of educating and bringing awareness to what it is like to be an adult living on the spectrum. 
