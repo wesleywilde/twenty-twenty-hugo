@@ -1594,7 +1594,6 @@ ul.primary-menu {
 
 .primary-menu .icon::before,
 .primary-menu .icon::after {
-	content: "";
 	display: block;
 	background-color: currentColor;
 	position: absolute;
@@ -1687,7 +1686,6 @@ ul.primary-menu {
 
 .primary-menu ul::before,
 .primary-menu ul::after {
-	content: "";
 	display: block;
 	position: absolute;
 	bottom: 100%;
