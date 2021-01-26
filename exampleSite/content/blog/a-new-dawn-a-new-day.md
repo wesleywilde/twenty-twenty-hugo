@@ -3,7 +3,6 @@ author = []
 categories = []
 date = 2021-01-25T08:00:00Z
 description = ""
-draft = true
 image = "/images/todd-diemer-wl18o553msc-unsplash.jpg"
 tags = []
 title = "A new dawn, a new day"
