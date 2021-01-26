@@ -36,8 +36,8 @@ home = ["HTML", "RSS", "JSON"]
 author = "Wesley Wilde"
 description = "My Autistic Life"
 [params.banner]
-heading = "Exploring the autistic experience"
-image = "images/sunrise.jpg"
+heading = "My Autistic Life"
+image = ""
 [params.blog]
 heading = "Treat people with kindness"
 [params.call_to_action]
