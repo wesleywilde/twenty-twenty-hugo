@@ -458,7 +458,7 @@ hr.styled-separator::after {
 }
 
 a {
-	color: #ffcc00;
+	color: BlueViolet;
 	text-decoration: underline;
 }
 
@@ -3022,7 +3022,7 @@ h2.entry-title {
 }
 
 .wp-block-button.is-style-outline {
-	color: #cd2653;
+	color: BlueViolet;
 }
 
 .is-style-outline .wp-block-button__link:not(.has-text-color) {
