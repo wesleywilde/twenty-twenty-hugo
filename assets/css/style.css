@@ -5735,7 +5735,6 @@ a.to-the-top>* {
 
 	.header-inner .toggle-wrapper::before {
 		background: #dedfdf;
-		content: "";
 		display: block;
 		height: 2.7rem;
 		position: absolute;
@@ -5749,7 +5748,6 @@ a.to-the-top>* {
 	}
 
 	.header-inner .primary-menu-wrapper+.header-toggles .toggle-wrapper:first-child::before {
-		content: "";
 	}
 
 	.nav-toggle-wrapper:not(.has-expanded-menu) {
