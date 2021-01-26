@@ -39,7 +39,7 @@ description = "My Autistic Life"
 heading = "My Autistic Life"
 image = ""
 [params.blog]
-heading = "Treat people with kindness"
+heading = "Latest Articles"
 [params.call_to_action]
 button_label = "Contact Us"
 button_url = "contact"
