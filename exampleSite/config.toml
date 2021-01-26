@@ -34,7 +34,7 @@ weight = 1
 home = ["HTML", "RSS", "JSON"]
 [params]
 author = "Wesley Wilde"
-description = "This is meta description"
+description = "My Autistic Life"
 [params.banner]
 heading = "Exploring the autistic experience"
 image = "images/sunrise.jpg"
