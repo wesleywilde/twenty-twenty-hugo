@@ -1356,7 +1356,6 @@ ul.social-icons li {
 
 
 #site-header {
-	background: #fff;
 	position: relative;
 }
 
@@ -2406,7 +2405,6 @@ body:not(.singular) main>article:first-of-type {
 /* Post Header ------------------------------- */
 
 .singular .entry-header {
-	background-color: #fff;
 	padding: 4rem 0;
 }
 
