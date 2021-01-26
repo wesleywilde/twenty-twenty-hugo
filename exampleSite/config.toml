@@ -1,6 +1,6 @@
 baseURL = "https://wesleywilde.netlify.app"
 disableLanguages = []
-disqusShortname = ""
+disqusShortname = " wesleywilde"
 googleAnalytics = "G-9G6X7L8C40"
 languageCode = "en-us"
 languageName = "En"
@@ -54,10 +54,10 @@ title = "Contact us for more information."
 enable = true
 expire_days = 2
 [params.footer]
-address = ""
-content = "This may be a good place to introduce yourself and your site or include some credits."
+address = "Worldwide"
+content = "👋I'm Wesley Wilde. I'm a non-binary autistic artist and musician. It's nice to meet you!"
 copyright = "Copyright &copy; 2021 — My Autistic Life"
-hours = ""
+hours = "24/7"
 title = "About This Site"
 [params.gallery]
 enable = true
