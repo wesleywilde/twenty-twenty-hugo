@@ -56,7 +56,7 @@ expire_days = 2
 [params.footer]
 address = ""
 content = "This may be a good place to introduce yourself and your site or include some credits."
-copyright = "Copyright &copy; 2021"
+copyright = "Copyright &copy; 2021 — My Autistic Life"
 hours = ""
 title = "About This Site"
 [params.gallery]
